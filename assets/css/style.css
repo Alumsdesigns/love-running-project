@@ -179,6 +179,35 @@ main {
 }    
 }
  
+/* Reasons Section */
+#reasons {
+    padding: 20px;
+    padding-bottom: 40px;
+}
+
+#reasons > h2 {
+    text-align: center;
+    font-size: 1.8rem;
+    margin-bottom: 20px;
+}
+
+/* Space between benefit items */
+#benefits-physical > div,
+#benefits-mental > div {
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
+
+/* Padding for benefit paragraphs */
+#benefits p {
+    padding: 0 20px;
+}
+
+/* Style the <hr> */
+#benefits hr {
+    border: 1px solid #3a3a3a;
+    margin: 5px 0;
+}
 
 
 
