@@ -145,7 +145,7 @@ main {
 }
 
 #circle-cover-bg {
-    background: url('../images/reasons-image.webp') no repeat top center / cover;
+    background: url("../images/reasons-image.webp") no-repeat top center / cover;
     height: 90vw;
     width: 90vw;
     margin-bottom: 20px;
@@ -213,6 +213,8 @@ main {
     width: 300px;
     right: 50px;
 }
+
+
 
 /* large devices (laptops and desktops, 992px and up) */
 @media screen and (min-width: 992px) {
