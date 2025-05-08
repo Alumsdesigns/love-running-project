@@ -26,6 +26,10 @@ h1, h2, h3 {
     color: #252522;
 }
 
+.hidden-heading {
+    display: none;
+}
+
 /* Header */
 header {
     background-color: rgb(247, 243, 243);
